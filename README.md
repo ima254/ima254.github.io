@@ -25,7 +25,8 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
       
 ### Running the app
   - Step 3 requires a DB created(*this project was developed using postgresql*)<br/>    
-    ```$ python run_app.py```<br/>    
+    ```$ python run_app.py```<br/> 
+    
   - Test<br/>
     ```$ python test_app.py```
 ------------------------------------------------------------------------------------------------------
