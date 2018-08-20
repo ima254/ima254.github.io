@@ -1,5 +1,5 @@
-## StackOverflow-Lite - Flask RESTful API example
-*(This repo is part of the andela stackoverflow-lite bootcamp cycle 31 project)*
+## StackOverflow-Lite - Challenge 1
+*(This repo contains the project's UI elements)*
 
 ### Project Overview
 StackOverflow-lite is a platform where people can ask questions and provide answers. Among the required elemental features are:
