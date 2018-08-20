@@ -18,19 +18,6 @@
 ### Installation guide
   - Clone the repo<br/>
       ```$ git clone https://github.com/ima254/ima254.github.io/```<br/>
-      ```$ cd flask-api-example```<br/><br/>
-  - Create the virtualenv<br/>
-      ```$ mkvirtualenv flask-api-example```<br/><br/>
-  - Install dependencies<br/>
-      ```$ pip install -r requirements.txt```<br/><br/>
-  - Run the app<br/>
-      ```$ python run_app.py```<br/>
 ------------------------------------------------------------------------------------------------------
-      
-### Running the app
-  - Step 3 requires a DB created(*this project was developed using postgresql*)<br/>    
-    ```$ python run_app.py```<br/> 
-    
-  - Test<br/>
-    ```$ python test_app.py```
+  
 ------------------------------------------------------------------------------------------------------
